@@ -34,7 +34,7 @@ This repository provides the cropped images along with its label file for nepali
 ![66](https://user-images.githubusercontent.com/99968233/231127709-4176432a-f8b0-44a4-b873-89c481222db8.jpg)
 ![67](https://user-images.githubusercontent.com/99968233/231127710-58ee070d-f1d0-41c9-9763-7865cce372f2.jpg)
 
-# After Training the datasets in TransformerOCR, the results are as below.
+# After Training the datasets in HuggingFace🤗 TransformerOCR, the results are as below.
 
 # Results:
 
