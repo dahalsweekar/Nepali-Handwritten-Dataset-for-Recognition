@@ -2,6 +2,8 @@
 
 This repository provides the cropped images along with its label file for nepali handwritten dataset.
 
+![Link](https://www.kaggle.com/datasets/sweekardahal/handwritten-labeled-dataset-for-text-recognition)
+
 # Sample images:
 
 ![1](https://user-images.githubusercontent.com/99968233/231127471-4da5014a-113d-476e-9ee6-4dce754c3e40.jpg)
